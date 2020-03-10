@@ -18,4 +18,6 @@
 
 ![图一](screenshot/1.png)
 
+![图二](screenshot/2.png)
+
 具体设计可查看我的博客：[PHP + CI框架 + AdminLite博客管理系统](https://www.cnblogs.com/yang-2018/p/12455805.html)
