@@ -4,7 +4,7 @@
 
 ## 更新
 
-- 2019-01-13 新增权限控制到按钮
+- 暂无
 
 ## 使用
 
@@ -18,4 +18,4 @@
 
 ![图一](screenshot/1.png)
 
-具体设计可查看我的博客：[PHP + CI框架 + AdminLITE博客管理系统](https://www.cnblogs.com/yang-2018/p/11584974.html)
+具体设计可查看我的博客：[PHP + CI框架 + AdminLite博客管理系统](https://www.cnblogs.com/yang-2018/p/12455805.html)
